@@ -1,1 +1,1 @@
-print('Agora seu nome é sodre')
+print('Agora seu nome é sode')
